@@ -93,8 +93,8 @@ A digital stokvel and wealth platform where groups save together, earn rotation-
 ## 📈 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LanMalJR&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb86c&icon_color=ffb86c&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanMalJR&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffb86c&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LangaLMJ&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffb86c&icon_color=ffb86c&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LangaLMJ&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffb86c&text_color=c9d1d9" alt="Top languages" />
 </p>
 
 <p align="center">
