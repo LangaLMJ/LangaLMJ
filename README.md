@@ -20,11 +20,11 @@
 
 ## 👋 About me
 
-I'm Langa, a **B. Computer Information Systems (Honours)** graduate, currently doing my master's. I build interactive systems that solve real problems, from **VR tractor simulators for agricultural training** to **AI-assisted personal finance tools**.
+I'm Langa, a **B. Computer Information Systems (Honours)** graduate. I build interactive systems that solve real problems, from **VR tractor simulators for agricultural training** to **AI-assisted personal finance tools**.
 
 I work on both sides of a project: working out what users actually need, then building software that meets it. I care about user-centred design, clean structure and code that's easy to maintain.
 
-- 🔭 Currently building **TracSafe VR**, a tractor safety training simulator, for my master's research
+- 🔭 Currently building **TracSafe VR**, a tractor safety training simulator.
 - 🎯 Looking for **graduate / junior software developer and business analyst roles**
 - 💬 Ask me about **C#, Unity or business analysis**
 
@@ -67,7 +67,7 @@ I work on both sides of a project: working out what users actually need, then bu
 <td width="50%" valign="top">
 
 ### 🚜 TracSafe VR
-**Master's research artifact**
+**Honours research artifact**
 
 A tractor safety training simulator for agricultural and engineering students, built in Unity for the Meta Quest 3. A Logitech G29 steering wheel connects to the headset through a custom ESP32-S3 WiFi/UDP bridge. Requirements, design and user evaluation follow a Design Science Research process.
 
