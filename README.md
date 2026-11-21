@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFB86C&center=true&vCenter=true&width=600&lines=Software+Developer+%26+Business+Analyst;Turning+requirements+into+working+software;Building+a+VR+training+simulator+in+Unity" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFB86C&center=true&vCenter=true&width=600&lines=Solving+real+problems+using+software;Open+to+graduate+dev+%26+BA+roles" alt="Typing intro" />
   </a>
 </p>
 
